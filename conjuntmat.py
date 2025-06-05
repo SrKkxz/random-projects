@@ -150,6 +150,4 @@ def main():
             break
         else:
             print(">> Opção invalida.")
-
-if __name__ == "__main__":
-    main()
+ main()
